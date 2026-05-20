@@ -13,8 +13,9 @@ Once the user is logged, the program displays a welcome message and you can clic
 
 
 ### Author
-- Twitter - [Nay Campos](https://twitter.com/tercodiablo)
-- Github - [@tercodiablo](https://www.frontendmentor.io/profile/tercodiablo)
+- Github - [@dxeazi](https://github.com/dxeazi/)
+  (before "@tercodiablo")
+- Front-End Mentor - [@tercodiablo](https://www.frontendmentor.io/profile/tercodiablo)
 
 
 ### Built with
@@ -25,13 +26,13 @@ Once the user is logged, the program displays a welcome message and you can clic
 
 ## Live example
 
-Github: https://github.com/tercodiablo/naiat-app211    --tooltips and fixed some bugs
+Github: https://github.com/dxeazi/naiat-app211    --tooltips and fixed some bugs
 
 CodeSandBox: https://codesandbox.io/s/react-naiat-login-csbtd-nsp8n5  --first version
 
 ## Hiring and contact me
 
-Email: tercodiablo@outlook.com
+Email: dxeazi@proton.me
 
 ## Notes
 
