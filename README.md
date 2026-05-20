@@ -1,3 +1,9 @@
+# NaiatApex
+
+Idioma / Language: **Español** | [English (#english-version)](#english-version)
+
+---
+
 ### Descripción
 
 Hola, soy Nallely Campos. Desarrollé NaiatApex con React y CSS como proyecto final de LatinasCodeCamp2023; es una aplicación de tipo bancario. Cuenta con un formulario de inicio de sesión validado por usuario y contraseña. Si estos son incorrectos o están incompletos, muestra un mensaje para revisar los datos ingresados; si son correctos, permite el acceso.
@@ -13,9 +19,8 @@ Una vez que el usuario inicia sesión, el programa muestra un mensaje de bienven
 
 
 ### Autor
-- Github - [@dxeazi](https://github.com/dxeazi/)
-  (antes "@tercodiablo")
-- Front-End Mentor - [@tercodiablo](https://www.frontendmentor.io/profile/tercodiablo)
+- Github - [@dxeazi](https://github.com) (antes "@tercodiablo")
+- Front-End Mentor - [@tercodiablo](https://frontendmentor.io)
 
 
 ### Construido con
@@ -26,9 +31,9 @@ Una vez que el usuario inicia sesión, el programa muestra un mensaje de bienven
 
 ## Ejemplo en vivo
 
-Github: https://github.com/dxeazi/naiat-app211    --tooltips y corrección de algunos errores (bugs)
+Github: https://github.comnaiat-app211    --tooltips y corrección de algunos errores (bugs)
 
-CodeSandBox: https://codesandbox.io/s/react-naiat-login-csbtd-nsp8n5  --primera versión
+CodeSandBox: https://codesandbox.io  --primera versión
 
 ## Contrataciones y contacto
 
@@ -56,3 +61,70 @@ Aprender a usar React DOM, rutas de React-router y NavLinks para llamar a múlti
       </Routes>
     </BrowserRouter>
 ~~~
+
+---
+
+<span id="english-version"></span>
+<details>
+  <summary><b>🌐 Click here to read the English version (Click aquí para leer la versión en Inglés)</b></summary>
+  <br>
+
+### Description
+
+Hi I'm Nallely Campos, I developed NaiatApex with React and CSS as a final project of LatinasCodeCamp2023, it is a bank-type app. It has a login-form  validated by a username and password, if they are incorrect or incomplete displays a message to review the input; if they are correct, it allows access.
+
+Once the user is logged, the program displays a welcome message and you can clic on options from the sidebar-menu. The menu has icons and tooltips.
+
++ The user(s) can change their PIN 
++ Check the monetary value of their share and the value of them in the market 
++ Choose how many shares you want to sell or buy 
++ Add money to your account (each deposit is associated with the date it was made, the amount deposited, and this amount is added to the current balance)
++ Check a balance sheet, that includes the user's data, their account movements, a button to print the info showed on screen and the date of printing.
++ At the end of the session, the app displays a farewell message and redirects to the login screen with the form fields cleared and ready to be used once again.
+
+
+### Author
+- Github - [@dxeazi](https://github.com) (before "@tercodiablo")
+- Front-End Mentor - [@tercodiablo](https://frontendmentor.io)
+
+
+### Built with
+
+- REACT
+- CSS 
+- Flexbox
+
+## Live example
+
+Github: https://github.comnaiat-app211    --tooltips and fixed some bugs
+
+CodeSandBox: https://codesandbox.io  --first version
+
+## Hiring and contact me
+
+Email: dxeazi@proton.me
+
+## Notes
+
+Data such as first and last name, PIN changes, purchase and sale of shares, deposits and balance are stored in the local host.
+
+The project is made for web version only, the mobile version is still under development.
+
+To access, please use the following data-->
+Username: "naiat". 
+PIN: "1932"
+
+## Acknowledgments
+Learn how to use React DOM, React-routes paths and NavLinks to call multiple components or pages based on urls, in a single window. For example:
+
+~~~  
+<BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+~~~
+
+</details>
